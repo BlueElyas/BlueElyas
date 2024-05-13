@@ -11,4 +11,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueElyas)](https://github.com/anuraghazra/github-readme-stats)
 
-Used from: (Github Read Me Stats)[https://github.com/anuraghazra/github-readme-stats]
+Used from: Github Read Me Stats[https://github.com/anuraghazra/github-readme-stats]
